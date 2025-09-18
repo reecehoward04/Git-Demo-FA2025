@@ -1,2 +1,3 @@
 # Git-Demo-FA2025
-Descriptions are optional.
+
+This is a test repo!
